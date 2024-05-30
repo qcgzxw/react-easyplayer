@@ -1,0 +1,28 @@
+{
+  "name": "react-easyplayer",
+  "version": "5.0.5",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "Easyplayer Component for React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qcgzxw/react-easyplayer"
+  },
+  "scripts": {
+    "build": "npx tsc -p ."
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "typescript": "^4.9.4"
+  },
+  "keywords": [
+    "easyplayer",
+    "react",
+    "react easyplayer",
+    "react-easyplayer"
+  ],
+  "dependencies": {
+    "easy-zustand": "^3.5.3"
+  }
+}
